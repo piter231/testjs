@@ -1,1 +1,1 @@
-http://frog01.mikr.us:20762/script.js
+Header add Access-Control-Allow-Origin "*"
